@@ -1,11 +1,11 @@
-/* Wii Nunchuk + Servos + Ultrasonic Sensor = MeMe (:O)
+/* Wii Nunchuk + Servos + Ultrasonic Sensor = MeMe (:O) ver.-1.0.5
 * by Scrawny @ http://bricolabs.cc
 *
 * Show by Serial Monitor the status of:
 * - Joy X | Joy Y | Roll | Pitch | Accel X | Accel Y | Accel Z | Buttons - Uncomment if necessary
 * - Measure in cm using HC-SR04 Ultrasonic Sensor
 *
-* Config Serial @ 115200 baud
+* Config Serial @ 57600 baud
 *
 * First steep you need define default idle Zero (90 degrees) in Joy_X and Joy_Y
 * in WiiChuck.h file (DEFAULT_ZERO_JOY_X & DEFAULT_ZERO_JOY_Y)
